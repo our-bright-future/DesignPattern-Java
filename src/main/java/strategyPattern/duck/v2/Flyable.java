@@ -1,2 +1,5 @@
-package strategyPattern.duck.v2;public interface Flyable {
+package strategyPattern.duck.v2;
+
+public interface Flyable {
+    void fly();
 }
