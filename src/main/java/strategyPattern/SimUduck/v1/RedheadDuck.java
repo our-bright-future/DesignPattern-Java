@@ -1,4 +1,4 @@
-package strategyPattern.duck.v1;
+package strategyPattern.SimUduck.v1;
 
 public class RedheadDuck extends DuckV1 {
 
