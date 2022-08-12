@@ -1,4 +1,4 @@
-package strategyPattern.SimUduck.v1;
+package StrategyPattern.SimUduck.v1;
 
 public class RubberDuck extends DuckV1 {
 

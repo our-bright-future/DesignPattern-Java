@@ -1,4 +1,4 @@
-package strategyPattern.SimUduck.v2;
+package StrategyPattern.SimUduck.v2;
 
 public class MallardDuck
         extends DuckV2

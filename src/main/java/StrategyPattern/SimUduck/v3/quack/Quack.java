@@ -1,4 +1,4 @@
-package strategyPattern.SimUduck.v3.quack;
+package StrategyPattern.SimUduck.v3.quack;
 
 public class Quack implements QuackBehavior{
     @Override

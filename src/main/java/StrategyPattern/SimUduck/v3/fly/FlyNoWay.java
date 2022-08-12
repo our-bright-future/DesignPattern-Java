@@ -1,4 +1,4 @@
-package strategyPattern.SimUduck.v3.fly;
+package StrategyPattern.SimUduck.v3.fly;
 
 public class FlyNoWay implements FlyBehavior{
 

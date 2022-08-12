@@ -1,6 +1,6 @@
-package strategyPattern.SimUduck.v3;
+package StrategyPattern.SimUduck.v3;
 
-import strategyPattern.SimUduck.v3.fly.FlyRocketPowered;
+import StrategyPattern.SimUduck.v3.fly.FlyRocketPowered;
 
 public class MiniDuckSimulator {
 

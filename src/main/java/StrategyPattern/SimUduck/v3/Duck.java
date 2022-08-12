@@ -1,8 +1,8 @@
-package strategyPattern.SimUduck.v3;
+package StrategyPattern.SimUduck.v3;
 
 import lombok.Setter;
-import strategyPattern.SimUduck.v3.fly.FlyBehavior;
-import strategyPattern.SimUduck.v3.quack.QuackBehavior;
+import StrategyPattern.SimUduck.v3.fly.FlyBehavior;
+import StrategyPattern.SimUduck.v3.quack.QuackBehavior;
 
 @Setter
 public abstract class Duck {
