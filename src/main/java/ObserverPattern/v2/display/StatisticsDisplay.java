@@ -16,7 +16,6 @@ public class StatisticsDisplay implements DisplayElement, Observer {
         weatherData.registerObserver(this);
     }
 
-    @Override
     public void update(float temp, float humidity, float pressure) {
         if (temp > maxTemperature) {
             maxTemperature = temp;
