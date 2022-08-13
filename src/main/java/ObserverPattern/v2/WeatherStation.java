@@ -4,7 +4,7 @@ import ObserverPattern.v2.display.CurrentConditionsDisplay;
 import ObserverPattern.v2.display.ForecastDisplay;
 import ObserverPattern.v2.display.StatisticsDisplay;
 
-public class WeaterStation {
+public class WeatherStation {
 
     public static void main(String[] args) {
         WeatherData weatherData = new WeatherData();
